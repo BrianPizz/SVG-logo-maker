@@ -19,7 +19,7 @@ Must have Node installed, navigate to repository, run ' npm i ', run ' node inde
 Answer command prompts to generate logo  
 ![Screenshot 2023-10-04 at 2 55 19 PM (2)](https://github.com/BrianPizz/SVG-logo-maker/assets/138056153/eebfae6d-72f7-4225-a6f2-c88a628df281)
 
-
+[Walkthrough Video](https://drive.google.com/file/d/1dtnOl34miyEQKZyoOtzhehHIbSJe1WnW/view)
 ## License
 This application is covered under:
 [MIT](https://choosealicense.com/licenses/mit/)
